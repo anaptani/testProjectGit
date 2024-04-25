@@ -1,3 +1,4 @@
 folderIgnore
 txtIgnore.txt
 pr3ingore
+pr3testingore.txt
